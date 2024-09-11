@@ -8,13 +8,13 @@ Step by step guide to becoming a modern frontend developer
 
 - [✔] The Basics
 - [✔] Customizing Visual Studio Code
-- [ ] Write Code 10x Faster Using Advance Shortcuts
-- [ ] Emmet's In Visual Studio Code
-- [ ] VSC Top Extensions
+- [✔] Write Code 10x Faster Using Advance Shortcuts
+- [✔] Emmet's In Visual Studio Code
+- [✔] VSC Top Extensions
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
-- [ ] What is Git/GitHub & Why do we need it? | Git Tutorials #1
+- [✔] What is Git/GitHub & Why do we need it? | Git Tutorials #1
 - [ ] Installing Git + Initial Setup? | Git Tutorials #2
 - [ ] Git: Three Stage Architecture | Git Tutorials #3
 - [ ] Tracking Our first Git Project | Git Tutorials #4
